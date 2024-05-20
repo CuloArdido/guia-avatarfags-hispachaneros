@@ -20,8 +20,17 @@ A continuación se enumeran algunos puntos que considero importantes para dejar 
 3. Si bien esto se publica bajo la WTFPL (*"licencia pública haz lo que carajo quieras"*), el dueño del repositorio se reserva el derecho de agregar lo que considere conveniente. ¿Eso también te molesta?, entonces remitirse al punto anterior.
 
 # Como contribuir
-Puedes abrir un issue, enviar un pull request o un email a mierdailustrada (arroba) tutanota.com
+Puedes abrir un issue, enviar un pull request o un email a mierdailustrada (arroba) tutanota.com\
 También puedes dejar tu aporte en el hilo meta del refugio (suelo visitar el tablón prácticamente a diario).
+
+Si tienes sospechas de que un avatarfag viene operando desde hace tiempo pero te faltan pruebas o no cuentas con capturas suficientes, puedes revisar estos archivos de hilos viejos:
+
+|                 | /hispachan/                                                                                                                   | /hisparefugio/                                                                                                                      |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Archive Today   | https://archive.is/https://8chan.moe/hispachan/* https://archive.is/https://archive.8chan.moe/hispachan/*                     | https://archive.is/https://8chan.moe/hisparefugio/* https://archive.is/https://archive.8chan.moe/hisparefugio/*                     |
+| Wayback Machine | http://web.archive.org/web/*/https://8chan.moe/hispachan/* http://web.archive.org/web/*/https://archive.8chan.moe/hispachan/* | http://web.archive.org/web/*/https://8chan.moe/hisparefugio/* http://web.archive.org/web/*/https://archive.8chan.moe/hisparefugio/* |
+
+Ten en cuenta que en los hilos de archive.8chan.moe las imágenes están bloqueadas.
 
 # Avatarfags conocidos
 Avatarputos que operan normalmente en el refugio (y quizás en otros chanes) y como reconocerlos.
@@ -41,4 +50,13 @@ Avatarputos que operan normalmente en el refugio (y quizás en otros chanes) y c
 ![Horrela2](Horrela1.png)
 ![Horrela2](Horrela2.png)
 * Alias: Horrelas
-* Descripción: Se caracteriza por publicar una imagen con el texto "GILIPOLLAS DE MIERDA EL KE LO LEA!!!" junto con alguna frase en catalan, vasco o algun dialecto moroñol. Viene haciendo lo mismo desde que Hispachan existia y se presume que tambien ha estado en otros foros y chanes.!
+* Descripción: Se caracteriza por publicar una imagen con el texto "GILIPOLLAS DE MIERDA EL KE LO LEA!!!" junto con alguna frase en catalan, vasco o algún dialecto moroñol. Viene haciendo lo mismo desde que Hispachan existía y se presume que también ha estado en otros foros y chanes.
+
+---
+![Novato1](Novato1.png)
+![Novato2](Novato2.png)
+![Novato3](Novato3.png)
+
+* Alias: Novato/Nuevoputo
+* Descripción: Mas que un usuario en concreto, serian algún que otro negro que postean siempre la misma imagen sin venir a cuento creyendo que el chan es igual a un foro o la red social normie de turno (ojo, no es lo mismo postear un meme de uso común cuando el contexto lo amerita a postear siempre lo mismo en distintos hilos así sin mas).\
+Antes de tacharlos como avatarfags, es preferible asumir que simplemente son nuevoputos que no están muy familiarizados con como funcionan las cosas en los chanes. Nada que no solucione una advertencia o baneo correctivo a discreción del BO/Mod correspondiente (si luego de eso sigue empecinado en lo mismo, entonces ahí si se lo podría considerar un avatarfag en pleno derecho).
